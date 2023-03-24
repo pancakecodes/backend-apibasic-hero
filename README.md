@@ -1,6 +1,6 @@
 # backend-apibasic-hero
 
-<h2>Metodos basicos de una API con node + postman + mssql + typescript</h2>
+<h2>Metodos basicos de una API con Express + TypeORM + Node.js + Postman + mssql + TypeScript</h2>
 <div>
 <h3>Metodos</h3>
 get('/:id') // Obtener  un Hero por Id 
